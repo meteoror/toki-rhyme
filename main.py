@@ -22,7 +22,7 @@ def split_candidates(text):
 
 
 pairs = []
-with open("words.csv", newline="", encoding="utf-8") as f:
+with open("625-words-fluent-forever.csv", newline="", encoding="utf-8") as f:
     reader = csv.reader(f)
     next(reader, None)  # remove this line if your CSV has no header row
     for row in reader:
