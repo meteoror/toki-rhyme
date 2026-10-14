@@ -1,0 +1,2430 @@
+[
+  {
+    "original": "one",
+    "translation": "wan"
+  },
+  {
+    "original": "two",
+    "translation": "tu"
+  },
+  {
+    "original": "three",
+    "translation": "tu wan"
+  },
+  {
+    "original": "four",
+    "translation": "tu tu"
+  },
+  {
+    "original": "five",
+    "translation": "luka"
+  },
+  {
+    "original": "six",
+    "translation": "luka wan"
+  },
+  {
+    "original": "seven",
+    "translation": "luka tu"
+  },
+  {
+    "original": "eight",
+    "translation": "luka tu wan"
+  },
+  {
+    "original": "nine",
+    "translation": "luka tu"
+  },
+  {
+    "original": "ten",
+    "translation": "luka luka"
+  },
+  {
+    "original": "eleven",
+    "translation": "nanpa luka wan"
+  },
+  {
+    "original": "twelve",
+    "translation": "luka tu"
+  },
+  {
+    "original": "thirteen",
+    "translation": "telo mute"
+  },
+  {
+    "original": "fourteen",
+    "translation": "luka tu tu."
+  },
+  {
+    "original": "fifteen",
+    "translation": "luka luka."
+  },
+  {
+    "original": "sixteen",
+    "translation": "luka luka wan"
+  },
+  {
+    "original": "seventeen",
+    "translation": "luka tu."
+  },
+  {
+    "original": "eighteen",
+    "translation": "luka tu wan"
+  },
+  {
+    "original": "nineteen",
+    "translation": "meli Ninjeten"
+  },
+  {
+    "original": "twenty",
+    "translation": "mute mute"
+  },
+  {
+    "original": "twenty-one",
+    "translation": "nanpa mute wan"
+  },
+  {
+    "original": "twenty-two",
+    "translation": "mute tu"
+  },
+  {
+    "original": "twenty-three",
+    "translation": "mute mute."
+  },
+  {
+    "original": "thirty-one",
+    "translation": "mute mute."
+  },
+  {
+    "original": "thirthy-two",
+    "translation": "telo li kama mute."
+  },
+  {
+    "original": "fourty-one",
+    "translation": "mute mute."
+  },
+  {
+    "original": "fourty-two",
+    "translation": "mute tu"
+  },
+  {
+    "original": "fifty",
+    "translation": "mute"
+  },
+  {
+    "original": "fifty-one",
+    "translation": "mute wan"
+  },
+  {
+    "original": "fifty-two",
+    "translation": "mute tu"
+  },
+  {
+    "original": "sixty",
+    "translation": "jaki"
+  },
+  {
+    "original": "sixty-one",
+    "translation": "mute li wan"
+  },
+  {
+    "original": "sixty-two",
+    "translation": "sike tu"
+  },
+  {
+    "original": "seventy",
+    "translation": "sewi li"
+  },
+  {
+    "original": "seventy-one",
+    "translation": "luka tu wan"
+  },
+  {
+    "original": "seventy-two",
+    "translation": "luka tu tu"
+  },
+  {
+    "original": "eighty",
+    "translation": "luka tu wan"
+  },
+  {
+    "original": "eighty-one",
+    "translation": "luka tu wan"
+  },
+  {
+    "original": "eighty-two",
+    "translation": "luka tu tu"
+  },
+  {
+    "original": "ninety",
+    "translation": "meli Ninety"
+  },
+  {
+    "original": "ninety-one",
+    "translation": "meli Ninety-one"
+  },
+  {
+    "original": "ninety-two",
+    "translation": "meli Ninety tu"
+  },
+  {
+    "original": "one hundred",
+    "translation": "mute"
+  },
+  {
+    "original": "one hundred one",
+    "translation": "mute wan"
+  },
+  {
+    "original": "one hundred two",
+    "translation": "mute tu"
+  },
+  {
+    "original": "one hundred ten",
+    "translation": "mute luka luka"
+  },
+  {
+    "original": "one hundred eleven",
+    "translation": "mute mute mute."
+  },
+  {
+    "original": "one thousand",
+    "translation": "mute."
+  },
+  {
+    "original": "ten thousand",
+    "translation": "mute luka."
+  },
+  {
+    "original": "one hundred thousand",
+    "translation": "mute."
+  },
+  {
+    "original": "first",
+    "translation": "open la"
+  },
+  {
+    "original": "second",
+    "translation": "nanpa tu"
+  },
+  {
+    "original": "third",
+    "translation": "tu wan"
+  },
+  {
+    "original": "fortieth",
+    "translation": "jaki"
+  },
+  {
+    "original": "fourth",
+    "translation": "tu tu."
+  },
+  {
+    "original": "fifth",
+    "translation": "nanpa luka tu"
+  },
+  {
+    "original": "adjective",
+    "translation": "nasin sewi la"
+  },
+  {
+    "original": "adult",
+    "translation": "mi suli."
+  },
+  {
+    "original": "afternoon",
+    "translation": "sinpin pi tenpo pimeja ni"
+  },
+  {
+    "original": "air",
+    "translation": "kon"
+  },
+  {
+    "original": "airport",
+    "translation": "ma pi tomo tawa kon"
+  },
+  {
+    "original": "alive",
+    "translation": "lon"
+  },
+  {
+    "original": "animal",
+    "translation": "soweli"
+  },
+  {
+    "original": "apartment",
+    "translation": "tomo"
+  },
+  {
+    "original": "apple",
+    "translation": "kili"
+  },
+  {
+    "original": "April",
+    "translation": "tenpo mun nanpa tu la"
+  },
+  {
+    "original": "arm",
+    "translation": "luka"
+  },
+  {
+    "original": "army",
+    "translation": "utala"
+  },
+  {
+    "original": "attack",
+    "translation": "utala."
+  },
+  {
+    "original": "August",
+    "translation": "sike mun nanpa luka tu wan"
+  },
+  {
+    "original": "baby",
+    "translation": "jan lili"
+  },
+  {
+    "original": "back",
+    "translation": "sin."
+  },
+  {
+    "original": "bad",
+    "translation": "ike"
+  },
+  {
+    "original": "bag",
+    "translation": "poki"
+  },
+  {
+    "original": "ball",
+    "translation": "musi sike"
+  },
+  {
+    "original": "banana",
+    "translation": "kili"
+  },
+  {
+    "original": "band",
+    "translation": "kulupu"
+  },
+  {
+    "original": "bank",
+    "translation": "mani pi"
+  },
+  {
+    "original": "bar",
+    "translation": "telo nasa"
+  },
+  {
+    "original": "bathroom",
+    "translation": "tomo telo"
+  },
+  {
+    "original": "beach",
+    "translation": "lon poka pi telo suli."
+  },
+  {
+    "original": "beard",
+    "translation": "soweli wawa"
+  },
+  {
+    "original": "beat",
+    "translation": "pakala"
+  },
+  {
+    "original": "beautiful",
+    "translation": "pona lukin"
+  },
+  {
+    "original": "bed",
+    "translation": "supa lape"
+  },
+  {
+    "original": "bedroom",
+    "translation": "tomo lape"
+  },
+  {
+    "original": "beef",
+    "translation": "soweli moku"
+  },
+  {
+    "original": "beer",
+    "translation": "pan"
+  },
+  {
+    "original": "bend",
+    "translation": "o wan e linja"
+  },
+  {
+    "original": "beverage",
+    "translation": "telo nasa"
+  },
+  {
+    "original": "bicycle",
+    "translation": "sike tu"
+  },
+  {
+    "original": "big",
+    "translation": "suli"
+  },
+  {
+    "original": "bill",
+    "translation": "lawa"
+  },
+  {
+    "original": "billion",
+    "translation": "mute."
+  },
+  {
+    "original": "bird",
+    "translation": "waso"
+  },
+  {
+    "original": "black",
+    "translation": "pimeja"
+  },
+  {
+    "original": "blind",
+    "translation": "jan li ken ala lukin"
+  },
+  {
+    "original": "blood",
+    "translation": "telo sijelo loje"
+  },
+  {
+    "original": "blue",
+    "translation": "laso"
+  },
+  {
+    "original": "boat",
+    "translation": "tomo tawa telo"
+  },
+  {
+    "original": "body",
+    "translation": "sijelo"
+  },
+  {
+    "original": "bone",
+    "translation": "kiwen uta"
+  },
+  {
+    "original": "book",
+    "translation": "lipu"
+  },
+  {
+    "original": "bottle",
+    "translation": "poki"
+  },
+  {
+    "original": "bottom",
+    "translation": "noka"
+  },
+  {
+    "original": "box",
+    "translation": "poki"
+  },
+  {
+    "original": "boy",
+    "translation": "mije lili"
+  },
+  {
+    "original": "brain",
+    "translation": "lawa lawa"
+  },
+  {
+    "original": "bread",
+    "translation": "pan"
+  },
+  {
+    "original": "break",
+    "translation": "pakala"
+  },
+  {
+    "original": "breakfast",
+    "translation": "open pi tenpo suno la"
+  },
+  {
+    "original": "bridge",
+    "translation": "nasin pi anpa kon"
+  },
+  {
+    "original": "brother",
+    "translation": "mije sama mije"
+  },
+  {
+    "original": "brown",
+    "translation": "loje jelo"
+  },
+  {
+    "original": "build",
+    "translation": "o pali."
+  },
+  {
+    "original": "building",
+    "translation": "tomo li"
+  },
+  {
+    "original": "burn",
+    "translation": "seli!"
+  },
+  {
+    "original": "bus",
+    "translation": "tomo tawa kulupu"
+  },
+  {
+    "original": "buy",
+    "translation": "o esun."
+  },
+  {
+    "original": "cake",
+    "translation": "pan suwi"
+  },
+  {
+    "original": "call",
+    "translation": "o toki kepeken ilo toki."
+  },
+  {
+    "original": "camera",
+    "translation": "ilo sitelen"
+  },
+  {
+    "original": "camp",
+    "translation": "ma tomo"
+  },
+  {
+    "original": "car",
+    "translation": "tomo tawa"
+  },
+  {
+    "original": "card",
+    "translation": "lipu mani"
+  },
+  {
+    "original": "carry",
+    "translation": "o tawa."
+  },
+  {
+    "original": "cat",
+    "translation": "soweli li"
+  },
+  {
+    "original": "catch",
+    "translation": "o kama."
+  },
+  {
+    "original": "ceiling",
+    "translation": "supa sewi tomo"
+  },
+  {
+    "original": "cell phone",
+    "translation": "ilo toki tawa mi."
+  },
+  {
+    "original": "centimeter",
+    "translation": "mute."
+  },
+  {
+    "original": "chair",
+    "translation": "supa"
+  },
+  {
+    "original": "cheap",
+    "translation": "ijo lili"
+  },
+  {
+    "original": "cheese",
+    "translation": "ko pi telo walo"
+  },
+  {
+    "original": "chicken",
+    "translation": "waso"
+  },
+  {
+    "original": "child",
+    "translation": "jan lili"
+  },
+  {
+    "original": "church",
+    "translation": "tomo pi nasin sewi li"
+  },
+  {
+    "original": "circle",
+    "translation": "sike"
+  },
+  {
+    "original": "city",
+    "translation": "ma tomo"
+  },
+  {
+    "original": "clay",
+    "translation": "kalama ike"
+  },
+  {
+    "original": "clean",
+    "translation": "o pona e sina!"
+  },
+  {
+    "original": "clock",
+    "translation": "ilo tenpo"
+  },
+  {
+    "original": "close",
+    "translation": "o pini"
+  },
+  {
+    "original": "clothing",
+    "translation": "len"
+  },
+  {
+    "original": "club",
+    "translation": "kulupu"
+  },
+  {
+    "original": "coat",
+    "translation": "len."
+  },
+  {
+    "original": "coffee",
+    "translation": "telo wawa li kama."
+  },
+  {
+    "original": "cold",
+    "translation": "lete li lon"
+  },
+  {
+    "original": "color",
+    "translation": "kule"
+  },
+  {
+    "original": "computer",
+    "translation": "ilo sona"
+  },
+  {
+    "original": "computer program",
+    "translation": "ilo sona."
+  },
+  {
+    "original": "consonant",
+    "translation": "pona."
+  },
+  {
+    "original": "contract",
+    "translation": "nasin lawa la"
+  },
+  {
+    "original": "cook",
+    "translation": "o seli."
+  },
+  {
+    "original": "cool",
+    "translation": "pona."
+  },
+  {
+    "original": "copper",
+    "translation": "kiwen loje"
+  },
+  {
+    "original": "corn",
+    "translation": "pan"
+  },
+  {
+    "original": "corner",
+    "translation": "nasin suno"
+  },
+  {
+    "original": "count",
+    "translation": "nanpa"
+  },
+  {
+    "original": "country",
+    "translation": "ma"
+  },
+  {
+    "original": "court",
+    "translation": "tomo lawa"
+  },
+  {
+    "original": "cow",
+    "translation": "mani li"
+  },
+  {
+    "original": "crowd",
+    "translation": "mute"
+  },
+  {
+    "original": "cry",
+    "translation": "telo oko"
+  },
+  {
+    "original": "cup",
+    "translation": "poki"
+  },
+  {
+    "original": "curved",
+    "translation": "kiwen sike"
+  },
+  {
+    "original": "cut",
+    "translation": "o kipisi."
+  },
+  {
+    "original": "dance",
+    "translation": "tawa musi."
+  },
+  {
+    "original": "dark",
+    "translation": "pimeja"
+  },
+  {
+    "original": "dark blue",
+    "translation": "laso pimeja"
+  },
+  {
+    "original": "date",
+    "translation": "tenpo kama"
+  },
+  {
+    "original": "daughter",
+    "translation": "meli lili"
+  },
+  {
+    "original": "day",
+    "translation": "suno ni"
+  },
+  {
+    "original": "dead",
+    "translation": "moli"
+  },
+  {
+    "original": "deaf",
+    "translation": "kute ala"
+  },
+  {
+    "original": "death",
+    "translation": "moli"
+  },
+  {
+    "original": "December",
+    "translation": "tenpo mun nanpa luka luka tu la"
+  },
+  {
+    "original": "deep",
+    "translation": "suli li lon anpa"
+  },
+  {
+    "original": "diamond",
+    "translation": "kiwen suno li"
+  },
+  {
+    "original": "die",
+    "translation": "moli"
+  },
+  {
+    "original": "dig",
+    "translation": "o sitelen"
+  },
+  {
+    "original": "dinner",
+    "translation": "moku la"
+  },
+  {
+    "original": "direction",
+    "translation": "nasin"
+  },
+  {
+    "original": "dirty",
+    "translation": "jaki"
+  },
+  {
+    "original": "disease",
+    "translation": "ike sijelo"
+  },
+  {
+    "original": "doctor",
+    "translation": "jan pi pona sijelo"
+  },
+  {
+    "original": "dog",
+    "translation": "soweli li"
+  },
+  {
+    "original": "dollar",
+    "translation": "mani Tola"
+  },
+  {
+    "original": "door",
+    "translation": "lupa"
+  },
+  {
+    "original": "dot",
+    "translation": "noka"
+  },
+  {
+    "original": "down",
+    "translation": "o anpa"
+  },
+  {
+    "original": "draw",
+    "translation": "o sitelen"
+  },
+  {
+    "original": "dream",
+    "translation": "sitelen lape li kama"
+  },
+  {
+    "original": "dress",
+    "translation": "o len e sina."
+  },
+  {
+    "original": "drink",
+    "translation": "o moku e telo."
+  },
+  {
+    "original": "drive",
+    "translation": "o tawa."
+  },
+  {
+    "original": "drug",
+    "translation": "ilo nasa"
+  },
+  {
+    "original": "dry",
+    "translation": "telo."
+  },
+  {
+    "original": "dust",
+    "translation": "jaki"
+  },
+  {
+    "original": "ear",
+    "translation": "o kute"
+  },
+  {
+    "original": "Earth",
+    "translation": "ma"
+  },
+  {
+    "original": "east",
+    "translation": "open pi nasin suno"
+  },
+  {
+    "original": "eat",
+    "translation": "o moku"
+  },
+  {
+    "original": "edge",
+    "translation": "poka"
+  },
+  {
+    "original": "egg",
+    "translation": "sike mama"
+  },
+  {
+    "original": "election",
+    "translation": "wile lawa"
+  },
+  {
+    "original": "energy",
+    "translation": "wawa"
+  },
+  {
+    "original": "engine",
+    "translation": "ilo."
+  },
+  {
+    "original": "evening",
+    "translation": "pimeja"
+  },
+  {
+    "original": "exercise",
+    "translation": "o pali e sijelo pona."
+  },
+  {
+    "original": "expensive",
+    "translation": "mani mute"
+  },
+  {
+    "original": "explode",
+    "translation": "pakala"
+  },
+  {
+    "original": "eye",
+    "translation": "oko"
+  },
+  {
+    "original": "face",
+    "translation": "sinpin"
+  },
+  {
+    "original": "fall",
+    "translation": "o anpa."
+  },
+  {
+    "original": "family",
+    "translation": "kulupu mama"
+  },
+  {
+    "original": "famous",
+    "translation": "jan mute li sona e"
+  },
+  {
+    "original": "fan",
+    "translation": "pona"
+  },
+  {
+    "original": "farm",
+    "translation": "ma"
+  },
+  {
+    "original": "fast",
+    "translation": "wawa!"
+  },
+  {
+    "original": "father",
+    "translation": "mama mije mi li"
+  },
+  {
+    "original": "February",
+    "translation": "mun nanpa tu la"
+  },
+  {
+    "original": "feed",
+    "translation": "moku"
+  },
+  {
+    "original": "female",
+    "translation": "mije"
+  },
+  {
+    "original": "fight",
+    "translation": "utala"
+  },
+  {
+    "original": "find",
+    "translation": "o alasa"
+  },
+  {
+    "original": "finger",
+    "translation": "palisa luka"
+  },
+  {
+    "original": "fire",
+    "translation": "seli li"
+  },
+  {
+    "original": "fish",
+    "translation": "kala"
+  },
+  {
+    "original": "flat",
+    "translation": "supa"
+  },
+  {
+    "original": "floor",
+    "translation": "noka anpa"
+  },
+  {
+    "original": "flower",
+    "translation": "kasi kule"
+  },
+  {
+    "original": "fly",
+    "translation": "pipi"
+  },
+  {
+    "original": "follow",
+    "translation": "o kama."
+  },
+  {
+    "original": "food",
+    "translation": "moku"
+  },
+  {
+    "original": "foot",
+    "translation": "noka"
+  },
+  {
+    "original": "forest",
+    "translation": "ma pi kasi suli"
+  },
+  {
+    "original": "fork",
+    "translation": "o moku."
+  },
+  {
+    "original": "Friday",
+    "translation": "tenpo Wenuto li"
+  },
+  {
+    "original": "friend",
+    "translation": "jan pona"
+  },
+  {
+    "original": "front",
+    "translation": "sinpin"
+  },
+  {
+    "original": "game",
+    "translation": "musi"
+  },
+  {
+    "original": "garden",
+    "translation": "ma kasi"
+  },
+  {
+    "original": "gasoline",
+    "translation": "wawa laso"
+  },
+  {
+    "original": "gift",
+    "translation": "pona."
+  },
+  {
+    "original": "girl",
+    "translation": "meli li"
+  },
+  {
+    "original": "glass",
+    "translation": "poki"
+  },
+  {
+    "original": "go",
+    "translation": "o tawa"
+  },
+  {
+    "original": "God",
+    "translation": "sewi o!"
+  },
+  {
+    "original": "gold",
+    "translation": "pona jelo"
+  },
+  {
+    "original": "good",
+    "translation": "pona"
+  },
+  {
+    "original": "grandfather",
+    "translation": "mama mije pi mama mije."
+  },
+  {
+    "original": "grandmother",
+    "translation": "mama meli mama meli"
+  },
+  {
+    "original": "grass",
+    "translation": "kasi ma"
+  },
+  {
+    "original": "gray",
+    "translation": "pimeja"
+  },
+  {
+    "original": "green",
+    "translation": "laso jelo"
+  },
+  {
+    "original": "ground",
+    "translation": "ma"
+  },
+  {
+    "original": "grow",
+    "translation": "o suli."
+  },
+  {
+    "original": "gun",
+    "translation": "ilo utala"
+  },
+  {
+    "original": "hair",
+    "translation": "linja lawa"
+  },
+  {
+    "original": "half",
+    "translation": "mi tu li"
+  },
+  {
+    "original": "hand",
+    "translation": "luka"
+  },
+  {
+    "original": "hang",
+    "translation": "o open"
+  },
+  {
+    "original": "happy",
+    "translation": "mi pilin pona."
+  },
+  {
+    "original": "hard",
+    "translation": "wawa"
+  },
+  {
+    "original": "hat",
+    "translation": "lawa"
+  },
+  {
+    "original": "he",
+    "translation": "ona li"
+  },
+  {
+    "original": "head",
+    "translation": "lawa"
+  },
+  {
+    "original": "healthy",
+    "translation": "sijelo pona"
+  },
+  {
+    "original": "heart",
+    "translation": "pilin"
+  },
+  {
+    "original": "heat",
+    "translation": "seli"
+  },
+  {
+    "original": "heaven",
+    "translation": "sewi"
+  },
+  {
+    "original": "heavy",
+    "translation": "suli"
+  },
+  {
+    "original": "hell",
+    "translation": "pakala!"
+  },
+  {
+    "original": "high",
+    "translation": "sewi"
+  },
+  {
+    "original": "hill",
+    "translation": "nena."
+  },
+  {
+    "original": "hole",
+    "translation": "lupa"
+  },
+  {
+    "original": "horse",
+    "translation": "soweli tawa"
+  },
+  {
+    "original": "hospital",
+    "translation": "tomo misikeke"
+  },
+  {
+    "original": "hot",
+    "translation": "seli"
+  },
+  {
+    "original": "hotel",
+    "translation": "jan tawa pi jan tawa"
+  },
+  {
+    "original": "hour",
+    "translation": "tenpo lili"
+  },
+  {
+    "original": "house",
+    "translation": "tomo"
+  },
+  {
+    "original": "human",
+    "translation": "jan"
+  },
+  {
+    "original": "husband",
+    "translation": "mije"
+  },
+  {
+    "original": "I",
+    "translation": "mi"
+  },
+  {
+    "original": "ice",
+    "translation": "lete li kama."
+  },
+  {
+    "original": "image",
+    "translation": "sitelen"
+  },
+  {
+    "original": "inch",
+    "translation": "noka"
+  },
+  {
+    "original": "injury",
+    "translation": "pakala"
+  },
+  {
+    "original": "inside",
+    "translation": "insa tomo"
+  },
+  {
+    "original": "island",
+    "translation": "ma lili"
+  },
+  {
+    "original": "it",
+    "translation": "ona"
+  },
+  {
+    "original": "January",
+    "translation": "tenpo mun Janali"
+  },
+  {
+    "original": "job",
+    "translation": "pali"
+  },
+  {
+    "original": "juice",
+    "translation": "telo"
+  },
+  {
+    "original": "July",
+    "translation": "sike mun nanpa luka tu tu"
+  },
+  {
+    "original": "jump",
+    "translation": "o noka."
+  },
+  {
+    "original": "June",
+    "translation": "sike mun nanpa luka wan"
+  },
+  {
+    "original": "key",
+    "translation": "open"
+  },
+  {
+    "original": "kill",
+    "translation": "o moli"
+  },
+  {
+    "original": "kilogram",
+    "translation": "jan Kilo"
+  },
+  {
+    "original": "king",
+    "translation": "mije lawa"
+  },
+  {
+    "original": "kiss",
+    "translation": "o uta e mi."
+  },
+  {
+    "original": "kitchen",
+    "translation": "tomo moku"
+  },
+  {
+    "original": "knee",
+    "translation": "kiwen"
+  },
+  {
+    "original": "knife",
+    "translation": "ilo kipisi"
+  },
+  {
+    "original": "lake",
+    "translation": "telo"
+  },
+  {
+    "original": "lamp",
+    "translation": "ilo suno"
+  },
+  {
+    "original": "laptop",
+    "translation": "ilo sona"
+  },
+  {
+    "original": "large",
+    "translation": "suli"
+  },
+  {
+    "original": "laugh",
+    "translation": "o musi."
+  },
+  {
+    "original": "lawyer",
+    "translation": "jan pi nasin lawa"
+  },
+  {
+    "original": "leaf",
+    "translation": "kasi kule"
+  },
+  {
+    "original": "learn",
+    "translation": "o kama sona"
+  },
+  {
+    "original": "left",
+    "translation": "weka"
+  },
+  {
+    "original": "leg",
+    "translation": "noka"
+  },
+  {
+    "original": "lemon",
+    "translation": "kili jelo"
+  },
+  {
+    "original": "letter",
+    "translation": "lipu toki"
+  },
+  {
+    "original": "library",
+    "translation": "tomo lipu"
+  },
+  {
+    "original": "lie down",
+    "translation": "o anpa."
+  },
+  {
+    "original": "lift",
+    "translation": "supa noka tawa"
+  },
+  {
+    "original": "light",
+    "translation": "suno"
+  },
+  {
+    "original": "light blue",
+    "translation": "suno li laso"
+  },
+  {
+    "original": "lip",
+    "translation": "lipu"
+  },
+  {
+    "original": "listen",
+    "translation": "o kute"
+  },
+  {
+    "original": "location",
+    "translation": "ma"
+  },
+  {
+    "original": "lock",
+    "translation": "o pini."
+  },
+  {
+    "original": "long",
+    "translation": "suli"
+  },
+  {
+    "original": "loose",
+    "translation": "o weka."
+  },
+  {
+    "original": "lose",
+    "translation": "o weka."
+  },
+  {
+    "original": "loud",
+    "translation": "wawa!"
+  },
+  {
+    "original": "love",
+    "translation": "olin"
+  },
+  {
+    "original": "low",
+    "translation": "noka"
+  },
+  {
+    "original": "lunch",
+    "translation": "moku pi tenpo suno."
+  },
+  {
+    "original": "magazine",
+    "translation": "esun"
+  },
+  {
+    "original": "male",
+    "translation": "mije"
+  },
+  {
+    "original": "man",
+    "translation": "jan"
+  },
+  {
+    "original": "map",
+    "translation": "lipu ma"
+  },
+  {
+    "original": "March",
+    "translation": "sike mun nanpa tu wan"
+  },
+  {
+    "original": "market",
+    "translation": "esun"
+  },
+  {
+    "original": "marriage",
+    "translation": "mije olin"
+  },
+  {
+    "original": "marry",
+    "translation": "mije olin."
+  },
+  {
+    "original": "material",
+    "translation": "ijo"
+  },
+  {
+    "original": "math",
+    "translation": "nanpa"
+  },
+  {
+    "original": "May",
+    "translation": "ken"
+  },
+  {
+    "original": "mean",
+    "translation": "mi wile"
+  },
+  {
+    "original": "medicine",
+    "translation": "pona sijelo"
+  },
+  {
+    "original": "melt",
+    "translation": "telo lili"
+  },
+  {
+    "original": "metal",
+    "translation": "kiwen suli"
+  },
+  {
+    "original": "meter",
+    "translation": "nanpa"
+  },
+  {
+    "original": "milk",
+    "translation": "telo walo"
+  },
+  {
+    "original": "million",
+    "translation": "mute wan"
+  },
+  {
+    "original": "minute",
+    "translation": "lili"
+  },
+  {
+    "original": "Monday",
+    "translation": "tenpo suno Mun"
+  },
+  {
+    "original": "money",
+    "translation": "mani"
+  },
+  {
+    "original": "month",
+    "translation": "mun"
+  },
+  {
+    "original": "moon",
+    "translation": "mun"
+  },
+  {
+    "original": "morning",
+    "translation": "open pi tenpo suno"
+  },
+  {
+    "original": "mother",
+    "translation": "mama meli"
+  },
+  {
+    "original": "mountain",
+    "translation": "nena li"
+  },
+  {
+    "original": "mouse",
+    "translation": "soweli lili"
+  },
+  {
+    "original": "mouth",
+    "translation": "uta"
+  },
+  {
+    "original": "movie",
+    "translation": "sitelen tawa"
+  },
+  {
+    "original": "murder",
+    "translation": "moli"
+  },
+  {
+    "original": "music",
+    "translation": "kalama musi"
+  },
+  {
+    "original": "musical instrument",
+    "translation": "ilo pi kalama musi"
+  },
+  {
+    "original": "narrow",
+    "translation": "lili"
+  },
+  {
+    "original": "nature",
+    "translation": "ma"
+  },
+  {
+    "original": "neck",
+    "translation": "noka"
+  },
+  {
+    "original": "needle",
+    "translation": "akesi"
+  },
+  {
+    "original": "neighbor",
+    "translation": "jan poka"
+  },
+  {
+    "original": "network",
+    "translation": "ilo linja"
+  },
+  {
+    "original": "new",
+    "translation": "sin"
+  },
+  {
+    "original": "newspaper",
+    "translation": "ijo sin"
+  },
+  {
+    "original": "nice",
+    "translation": "pona"
+  },
+  {
+    "original": "night",
+    "translation": "pimeja"
+  },
+  {
+    "original": "no",
+    "translation": "ala"
+  },
+  {
+    "original": "north",
+    "translation": "ma lete la"
+  },
+  {
+    "original": "nose",
+    "translation": "nena sin"
+  },
+  {
+    "original": "note",
+    "translation": "o lukin"
+  },
+  {
+    "original": "noun",
+    "translation": "ala"
+  },
+  {
+    "original": "November",
+    "translation": "tenpo mun nanpa luka tu la"
+  },
+  {
+    "original": "nuclear",
+    "translation": "ilo pi wawa ala"
+  },
+  {
+    "original": "number",
+    "translation": "nanpa"
+  },
+  {
+    "original": "ocean",
+    "translation": "telo"
+  },
+  {
+    "original": "October",
+    "translation": "tenpo mun nanpa luka tu wan la"
+  },
+  {
+    "original": "office",
+    "translation": "tomo pali"
+  },
+  {
+    "original": "oil",
+    "translation": "telo"
+  },
+  {
+    "original": "old",
+    "translation": "tenpo suli la"
+  },
+  {
+    "original": "open",
+    "translation": "open"
+  },
+  {
+    "original": "orange",
+    "translation": "loje jelo"
+  },
+  {
+    "original": "outside",
+    "translation": "ma"
+  },
+  {
+    "original": "page",
+    "translation": "lipu"
+  },
+  {
+    "original": "pain",
+    "translation": "pilin pakala"
+  },
+  {
+    "original": "paint",
+    "translation": "o kule"
+  },
+  {
+    "original": "pants",
+    "translation": "len noka"
+  },
+  {
+    "original": "paper",
+    "translation": "lipu"
+  },
+  {
+    "original": "parent",
+    "translation": "mama"
+  },
+  {
+    "original": "park",
+    "translation": "ma kasi pi tomo tawa"
+  },
+  {
+    "original": "pass by",
+    "translation": "o tawa"
+  },
+  {
+    "original": "patient",
+    "translation": "awen!"
+  },
+  {
+    "original": "pattern",
+    "translation": "pona"
+  },
+  {
+    "original": "pay",
+    "translation": "o pana e mani"
+  },
+  {
+    "original": "peace",
+    "translation": "o lape!"
+  },
+  {
+    "original": "pen",
+    "translation": "sitelen"
+  },
+  {
+    "original": "pencil",
+    "translation": "ilo sitelen"
+  },
+  {
+    "original": "person",
+    "translation": "jan"
+  },
+  {
+    "original": "photograph",
+    "translation": "sitelen"
+  },
+  {
+    "original": "piece",
+    "translation": "lili"
+  },
+  {
+    "original": "pig",
+    "translation": "jaki"
+  },
+  {
+    "original": "pink",
+    "translation": "loje walo"
+  },
+  {
+    "original": "plane",
+    "translation": "tomo tawa kon"
+  },
+  {
+    "original": "plant",
+    "translation": "kasi li kama"
+  },
+  {
+    "original": "plastic",
+    "translation": "kiwen"
+  },
+  {
+    "original": "plate",
+    "translation": "supa moku"
+  },
+  {
+    "original": "play",
+    "translation": "o musi"
+  },
+  {
+    "original": "player",
+    "translation": "jan li musi."
+  },
+  {
+    "original": "pocket",
+    "translation": "poki"
+  },
+  {
+    "original": "poison",
+    "translation": "jaki"
+  },
+  {
+    "original": "police",
+    "translation": "jan utala pi nasin lawa"
+  },
+  {
+    "original": "pool",
+    "translation": "telo jaki"
+  },
+  {
+    "original": "poor",
+    "translation": "mani lili"
+  },
+  {
+    "original": "pork",
+    "translation": "pork"
+  },
+  {
+    "original": "pound",
+    "translation": "pona."
+  },
+  {
+    "original": "pray",
+    "translation": "o toki!"
+  },
+  {
+    "original": "president",
+    "translation": "jan lawa"
+  },
+  {
+    "original": "price",
+    "translation": "mani"
+  },
+  {
+    "original": "priest",
+    "translation": "jan toki pi nasin sewi"
+  },
+  {
+    "original": "prison",
+    "translation": "tomo poki"
+  },
+  {
+    "original": "pull",
+    "translation": "o tawa."
+  },
+  {
+    "original": "push",
+    "translation": "o luka"
+  },
+  {
+    "original": "queen",
+    "translation": "meli lawa"
+  },
+  {
+    "original": "quiet",
+    "translation": "o kalama ala"
+  },
+  {
+    "original": "radio",
+    "translation": "kalama musi"
+  },
+  {
+    "original": "rain",
+    "translation": "telo sewi li kama."
+  },
+  {
+    "original": "red",
+    "translation": "loje"
+  },
+  {
+    "original": "relationship",
+    "translation": "olin"
+  },
+  {
+    "original": "religion",
+    "translation": "nasin sewi"
+  },
+  {
+    "original": "restaurant",
+    "translation": "tomo moku"
+  },
+  {
+    "original": "rice",
+    "translation": "pan"
+  },
+  {
+    "original": "rich",
+    "translation": "o jo e mani mute."
+  },
+  {
+    "original": "right",
+    "translation": "lon"
+  },
+  {
+    "original": "ring",
+    "translation": "sike"
+  },
+  {
+    "original": "river",
+    "translation": "telo tawa"
+  },
+  {
+    "original": "roof",
+    "translation": "sewi tomo"
+  },
+  {
+    "original": "room",
+    "translation": "tomo"
+  },
+  {
+    "original": "root",
+    "translation": "linja walo"
+  },
+  {
+    "original": "run",
+    "translation": "o tawa wawa"
+  },
+  {
+    "original": "sad",
+    "translation": "mi pilin ike."
+  },
+  {
+    "original": "salt",
+    "translation": "namako"
+  },
+  {
+    "original": "sand",
+    "translation": "ko musi"
+  },
+  {
+    "original": "Saturday",
+    "translation": "tenpo suno Ma li"
+  },
+  {
+    "original": "school",
+    "translation": "tomo sona"
+  },
+  {
+    "original": "science",
+    "translation": "nasin sona"
+  },
+  {
+    "original": "screen",
+    "translation": "sinpin lawa"
+  },
+  {
+    "original": "sea",
+    "translation": "telo suli"
+  },
+  {
+    "original": "season",
+    "translation": "tenpo li pona."
+  },
+  {
+    "original": "secretary",
+    "translation": "jan lawa"
+  },
+  {
+    "original": "seed",
+    "translation": "o pana e telo"
+  },
+  {
+    "original": "sell",
+    "translation": "o esun."
+  },
+  {
+    "original": "September",
+    "translation": "tenpo mun nanpa luka tu la"
+  },
+  {
+    "original": "shake",
+    "translation": "pakala"
+  },
+  {
+    "original": "shallow",
+    "translation": "supa"
+  },
+  {
+    "original": "she",
+    "translation": "ona li"
+  },
+  {
+    "original": "ship",
+    "translation": "tomo tawa telo"
+  },
+  {
+    "original": "shirt",
+    "translation": "len sijelo"
+  },
+  {
+    "original": "shoes",
+    "translation": "len noka"
+  },
+  {
+    "original": "short",
+    "translation": "lili"
+  },
+  {
+    "original": "shoulder",
+    "translation": "luka"
+  },
+  {
+    "original": "sick",
+    "translation": "ike"
+  },
+  {
+    "original": "side",
+    "translation": "poka"
+  },
+  {
+    "original": "sign",
+    "translation": "o sitelen"
+  },
+  {
+    "original": "silver",
+    "translation": "kiwen walo"
+  },
+  {
+    "original": "sing",
+    "translation": "o kalama musi."
+  },
+  {
+    "original": "sister",
+    "translation": "meli sama"
+  },
+  {
+    "original": "sit",
+    "translation": "o anpa."
+  },
+  {
+    "original": "skin",
+    "translation": "selo"
+  },
+  {
+    "original": "skirt",
+    "translation": "o len e sijelo"
+  },
+  {
+    "original": "sky",
+    "translation": "sewi li lon"
+  },
+  {
+    "original": "sleep",
+    "translation": "o lape"
+  },
+  {
+    "original": "slow",
+    "translation": "o pini e lawa sina."
+  },
+  {
+    "original": "small",
+    "translation": "lili"
+  },
+  {
+    "original": "smile",
+    "translation": "sinpin lawa pi pilin pona"
+  },
+  {
+    "original": "snow",
+    "translation": "ko lete li kama."
+  },
+  {
+    "original": "soap",
+    "translation": "pona"
+  },
+  {
+    "original": "soft",
+    "translation": "suwi"
+  },
+  {
+    "original": "soil",
+    "translation": "ma"
+  },
+  {
+    "original": "soldier",
+    "translation": "jan utala"
+  },
+  {
+    "original": "son",
+    "translation": "mije lili"
+  },
+  {
+    "original": "song",
+    "translation": "kalama musi"
+  },
+  {
+    "original": "sound",
+    "translation": "kalama"
+  },
+  {
+    "original": "soup",
+    "translation": "moku telo"
+  },
+  {
+    "original": "south",
+    "translation": "kon walo"
+  },
+  {
+    "original": "spoon",
+    "translation": "ilo moku"
+  },
+  {
+    "original": "sport",
+    "translation": "pali musi"
+  },
+  {
+    "original": "spring",
+    "translation": "tenpo pi kasi kule la"
+  },
+  {
+    "original": "square",
+    "translation": "tu tu"
+  },
+  {
+    "original": "stain",
+    "translation": "awen"
+  },
+  {
+    "original": "stand",
+    "translation": "o awen"
+  },
+  {
+    "original": "star",
+    "translation": "mun"
+  },
+  {
+    "original": "stone",
+    "translation": "kiwen"
+  },
+  {
+    "original": "stop",
+    "translation": "o pini"
+  },
+  {
+    "original": "store",
+    "translation": "esun"
+  },
+  {
+    "original": "straight",
+    "translation": "linja"
+  },
+  {
+    "original": "street",
+    "translation": "nasin"
+  },
+  {
+    "original": "strong",
+    "translation": "wawa"
+  },
+  {
+    "original": "student",
+    "translation": "jan li kama sona."
+  },
+  {
+    "original": "sugar",
+    "translation": "ko suwi"
+  },
+  {
+    "original": "suit",
+    "translation": "sama"
+  },
+  {
+    "original": "summer",
+    "translation": "tenpo seli la"
+  },
+  {
+    "original": "sun",
+    "translation": "sun"
+  },
+  {
+    "original": "Sunday",
+    "translation": "tenpo suno la"
+  },
+  {
+    "original": "sweat",
+    "translation": "o pana e telo jaki."
+  },
+  {
+    "original": "swim",
+    "translation": "o tawa lon telo"
+  },
+  {
+    "original": "T-shirt",
+    "translation": "len noka"
+  },
+  {
+    "original": "table",
+    "translation": "supa"
+  },
+  {
+    "original": "tall",
+    "translation": "suli"
+  },
+  {
+    "original": "taste",
+    "translation": "o pilin uta."
+  },
+  {
+    "original": "tea",
+    "translation": "telo kasi seli"
+  },
+  {
+    "original": "teach",
+    "translation": "o pana e sona."
+  },
+  {
+    "original": "teacher",
+    "translation": "jan sona li"
+  },
+  {
+    "original": "team",
+    "translation": "kulupu"
+  },
+  {
+    "original": "teardrop",
+    "translation": "telo kiwen"
+  },
+  {
+    "original": "technology",
+    "translation": "ilo pi ilo sona"
+  },
+  {
+    "original": "telephone",
+    "translation": "ilo toki"
+  },
+  {
+    "original": "television",
+    "translation": "sitelen tawa"
+  },
+  {
+    "original": "temperature",
+    "translation": "seli li"
+  },
+  {
+    "original": "theater",
+    "translation": "tomo musi"
+  },
+  {
+    "original": "they.",
+    "translation": "ona."
+  },
+  {
+    "original": "thick",
+    "translation": "jaki"
+  },
+  {
+    "original": "thin",
+    "translation": "lili"
+  },
+  {
+    "original": "think",
+    "translation": "o toki"
+  },
+  {
+    "original": "throw",
+    "translation": "o weka e"
+  },
+  {
+    "original": "Thursday",
+    "translation": "tenpo suno tu la"
+  },
+  {
+    "original": "ticket",
+    "translation": "lipu"
+  },
+  {
+    "original": "tight",
+    "translation": "o wawa."
+  },
+  {
+    "original": "time",
+    "translation": "tenpo"
+  },
+  {
+    "original": "tire",
+    "translation": "wile lape"
+  },
+  {
+    "original": "to clean",
+    "translation": "o pona e mi!"
+  },
+  {
+    "original": "to hear",
+    "translation": "mi kute"
+  },
+  {
+    "original": "to light",
+    "translation": "suno"
+  },
+  {
+    "original": "to mix",
+    "translation": "mi en sina li wan."
+  },
+  {
+    "original": "to see",
+    "translation": "mi lukin"
+  },
+  {
+    "original": "to shoot",
+    "translation": "mi moli e jan."
+  },
+  {
+    "original": "to speak",
+    "translation": "toki"
+  },
+  {
+    "original": "to watch",
+    "translation": "mi lukin"
+  },
+  {
+    "original": "to win",
+    "translation": "mi wile anpa e ona."
+  },
+  {
+    "original": "toe",
+    "translation": "noka"
+  },
+  {
+    "original": "tongue",
+    "translation": "toki"
+  },
+  {
+    "original": "tool",
+    "translation": "ilo"
+  },
+  {
+    "original": "tooth",
+    "translation": "kiwen uta"
+  },
+  {
+    "original": "top",
+    "translation": "pona."
+  },
+  {
+    "original": "touch",
+    "translation": "o luka"
+  },
+  {
+    "original": "town",
+    "translation": "ma tomo"
+  },
+  {
+    "original": "train",
+    "translation": "tomo tawa linja"
+  },
+  {
+    "original": "train station",
+    "translation": "tomo pi tomo tawa linja li pini."
+  },
+  {
+    "original": "transportation",
+    "translation": "tomo tawa"
+  },
+  {
+    "original": "tree",
+    "translation": "kasi li"
+  },
+  {
+    "original": "truck",
+    "translation": "tomo tawa suli"
+  },
+  {
+    "original": "Tuesday",
+    "translation": "tenpo suno Seli la"
+  },
+  {
+    "original": "turn",
+    "translation": "o kama"
+  },
+  {
+    "original": "ugly",
+    "translation": "pakala."
+  },
+  {
+    "original": "university",
+    "translation": "tomo sona sewi li"
+  },
+  {
+    "original": "up",
+    "translation": "o sewi."
+  },
+  {
+    "original": "valley",
+    "translation": "nena suli"
+  },
+  {
+    "original": "verb",
+    "translation": "nimi pali"
+  },
+  {
+    "original": "victim",
+    "translation": "pakala"
+  },
+  {
+    "original": "voice",
+    "translation": "toki"
+  },
+  {
+    "original": "vowel",
+    "translation": "pona."
+  },
+  {
+    "original": "waiter",
+    "translation": "jan pali pi tenpo lili"
+  },
+  {
+    "original": "wake up",
+    "translation": "o lape."
+  },
+  {
+    "original": "walk",
+    "translation": "o tawa."
+  },
+  {
+    "original": "wall",
+    "translation": "sinpin"
+  },
+  {
+    "original": "war",
+    "translation": "utala"
+  },
+  {
+    "original": "warm",
+    "translation": "seli."
+  },
+  {
+    "original": "wash",
+    "translation": "o telo e sina."
+  },
+  {
+    "original": "water",
+    "translation": "telo"
+  },
+  {
+    "original": "wave",
+    "translation": "wawa"
+  },
+  {
+    "original": "we",
+    "translation": "mi"
+  },
+  {
+    "original": "weak",
+    "translation": "wawa ala"
+  },
+  {
+    "original": "wear",
+    "translation": "o jo e len"
+  },
+  {
+    "original": "wedding",
+    "translation": "mi tu li kama wan."
+  },
+  {
+    "original": "Wednesday",
+    "translation": "tenpo suno ni la"
+  },
+  {
+    "original": "week",
+    "translation": "esun la"
+  },
+  {
+    "original": "weight",
+    "translation": "suli li"
+  },
+  {
+    "original": "west",
+    "translation": "open pi nasin suno"
+  },
+  {
+    "original": "wet",
+    "translation": "telo"
+  },
+  {
+    "original": "white",
+    "translation": "walo"
+  },
+  {
+    "original": "wide",
+    "translation": "suli"
+  },
+  {
+    "original": "wife",
+    "translation": "meli"
+  },
+  {
+    "original": "wind",
+    "translation": "kon tawa"
+  },
+  {
+    "original": "window",
+    "translation": "lupa suno"
+  },
+  {
+    "original": "wine",
+    "translation": "telo nasa"
+  },
+  {
+    "original": "wing",
+    "translation": "luka"
+  },
+  {
+    "original": "winter",
+    "translation": "tenpo lete la"
+  },
+  {
+    "original": "woman",
+    "translation": "meli"
+  },
+  {
+    "original": "wood",
+    "translation": "kasi kiwen"
+  },
+  {
+    "original": "work",
+    "translation": "pali"
+  },
+  {
+    "original": "world",
+    "translation": "ma ale"
+  },
+  {
+    "original": "write",
+    "translation": "o sitelen."
+  },
+  {
+    "original": "yard",
+    "translation": "ma"
+  },
+  {
+    "original": "year",
+    "translation": "sike suno"
+  },
+  {
+    "original": "yellow",
+    "translation": "jelo"
+  },
+  {
+    "original": "yes",
+    "translation": "lon"
+  },
+  {
+    "original": "you",
+    "translation": "sina"
+  },
+  {
+    "original": "young",
+    "translation": "jan lili"
+  }
+]

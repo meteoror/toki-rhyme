@@ -1,11 +1,13 @@
-import csv, json, time
+import csv, json, os, sys, time
 from gradio_client import Client
 
 client = Client("elliewall/english-tokipona-translator")
 
 SOURCE = "English"      # keep whatever values worked in your test
-TARGET = "Toki Pona"
+TARGET = "toki pona"
 NUM_RESULTS = 3
+DELAY = 1.5             # seconds between requests; raise it if you keep getting 429s
+OUT_FILE = "translations.json"
 
 
 def raw_translate(word):
@@ -21,28 +23,47 @@ def split_candidates(text):
     return [line.strip() for line in text.split("\n") if line.strip()]
 
 
-pairs = []
-with open("625-words-fluent-forever.csv", newline="", encoding="utf-8") as f:
+def save(done):
+    with open(OUT_FILE, "w", encoding="utf-8") as f:
+        json.dump(list(done.values()), f, ensure_ascii=False, indent=2)
+
+
+# Load earlier progress (dict keeps the original CSV order)
+done = {}
+if os.path.exists(OUT_FILE):
+    with open(OUT_FILE, encoding="utf-8") as f:
+        for pair in json.load(f):
+            done[pair["original"]] = pair
+
+# Read the words from the CSV
+with open("625-words-fluent-forever.csv", newline="", encoding="utf-8-sig") as f:
     reader = csv.reader(f)
     next(reader, None)  # remove this line if your CSV has no header row
-    for row in reader:
-        if not row or not row[0].strip():
-            continue
-        word = row[0].strip()
-        try:
-            result = raw_translate(word)
-        except Exception as e:
-            print(f"Failed on {word!r}: {e}")
-            pairs.append({"original": word, "translation": None})
-            continue
+    words = [row[0].strip() for row in reader if row and row[0].strip()]
 
-        candidates = split_candidates(result)
-        shortest = min(candidates, key=len) if candidates else None
-        pairs.append({"original": word, "translation": shortest})
-        print(f"{word} -> {shortest}")
-        time.sleep(0.5)
+for word in words:
+    existing = done.get(word)
+    if existing and existing["translation"] is not None:
+        continue  # already translated
 
-with open("translations.json", "w", encoding="utf-8") as f:
-    json.dump(pairs, f, ensure_ascii=False, indent=2)
+    try:
+        result = raw_translate(word)
+    except Exception as e:
+        if "429" in str(e):
+            save(done)
+            print(f"\nRate limited on {word!r}. Progress saved to {OUT_FILE}.")
+            print("Wait a while, then rerun the script to continue from this word.")
+            sys.exit(1)
+        print(f"Failed on {word!r}: {type(e).__name__}: {e!r}")
+        done[word] = {"original": word, "translation": None}
+        save(done)
+        continue
 
-print(f"Done: {len(pairs)} words written to translations.json")
+    candidates = split_candidates(result)
+    shortest = min(candidates, key=len) if candidates else None
+    done[word] = {"original": word, "translation": shortest}
+    save(done)
+    print(f"{word} -> {shortest}")
+    time.sleep(DELAY)
+
+print(f"Done: {len(done)} words in {OUT_FILE}")
