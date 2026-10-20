@@ -1,5 +1,5 @@
 [
-  {
+    {
     "original": "one",
     "translation": "wan"
   },
@@ -33,7 +33,7 @@
   },
   {
     "original": "nine",
-    "translation": "luka tu"
+    "translation": "luka tu tu"
   },
   {
     "original": "ten",
@@ -41,47 +41,47 @@
   },
   {
     "original": "eleven",
-    "translation": "nanpa luka wan"
-  },
-  {
-    "original": "twelve",
-    "translation": "luka tu"
-  },
-  {
-    "original": "thirteen",
-    "translation": "telo mute"
-  },
-  {
-    "original": "fourteen",
-    "translation": "luka tu tu."
-  },
-  {
-    "original": "fifteen",
-    "translation": "luka luka."
-  },
-  {
-    "original": "sixteen",
     "translation": "luka luka wan"
   },
   {
+    "original": "twelve",
+    "translation": "luka luka tu"
+  },
+  {
+    "original": "thirteen",
+    "translation": "luka luka tu wan"
+  },
+  {
+    "original": "fourteen",
+    "translation": "luka luka tu tu"
+  },
+  {
+    "original": "fifteen",
+    "translation": "luka luka luka"
+  },
+  {
+    "original": "sixteen",
+    "translation": "luka luka luka wan"
+  },
+  {
     "original": "seventeen",
-    "translation": "luka tu."
+    "translation": "luka luka luka tu"
   },
   {
     "original": "eighteen",
-    "translation": "luka tu wan"
+    "translation": "luka luka luka tu wan"
   },
   {
     "original": "nineteen",
-    "translation": "meli Ninjeten"
+    "translation": "luka luka luka tu tu"
   },
   {
     "original": "twenty",
-    "translation": "mute mute"
+    "translation": "mute"
   },
   {
     "original": "twenty-one",
-    "translation": "nanpa mute wan"
+    "translation": "mute wan"
   },
   {
     "original": "twenty-two",
@@ -89,119 +89,111 @@
   },
   {
     "original": "twenty-three",
-    "translation": "mute mute."
+    "translation": "mute tu wan"
   },
   {
     "original": "thirty-one",
-    "translation": "mute mute."
+    "translation": "mute luka luka wan"
   },
   {
-    "original": "thirthy-two",
-    "translation": "telo li kama mute."
+    "original": "thirty-two",
+    "translation": "mute luka luka tu"
   },
   {
-    "original": "fourty-one",
-    "translation": "mute mute."
+    "original": "forty-one",
+    "translation": "mute mute wan"
   },
   {
-    "original": "fourty-two",
-    "translation": "mute tu"
+    "original": "forty-two",
+    "translation": "mute mute tu"
   },
   {
     "original": "fifty",
-    "translation": "mute"
+    "translation": "mute mute luka luka"
   },
   {
     "original": "fifty-one",
-    "translation": "mute wan"
+    "translation": "mute mute luka luka wan"
   },
   {
     "original": "fifty-two",
-    "translation": "mute tu"
+    "translation": "mute mute luka luka tu"
   },
   {
     "original": "sixty",
-    "translation": "jaki"
+    "translation": "mute mute mute"
   },
   {
     "original": "sixty-one",
-    "translation": "mute li wan"
+    "translation": "mute mute mute wan"
   },
   {
     "original": "sixty-two",
-    "translation": "sike tu"
+    "translation": "mute mute mute tu"
   },
   {
     "original": "seventy",
-    "translation": "sewi li"
+    "translation": "mute mute mute luka luka"
   },
   {
     "original": "seventy-one",
-    "translation": "luka tu wan"
+    "translation": "mute mute mute luka luka wan"
   },
   {
     "original": "seventy-two",
-    "translation": "luka tu tu"
+    "translation": "mute mute mute luka luka tu"
   },
   {
     "original": "eighty",
-    "translation": "luka tu wan"
+    "translation": "mute mute mute mute"
   },
   {
     "original": "eighty-one",
-    "translation": "luka tu wan"
+    "translation": "mute mute mute mute wan"
   },
   {
     "original": "eighty-two",
-    "translation": "luka tu tu"
+    "translation": "mute mute mute mute tu"
   },
   {
     "original": "ninety",
-    "translation": "meli Ninety"
+    "translation": "mute mute mute mute luka luka"
   },
   {
     "original": "ninety-one",
-    "translation": "meli Ninety-one"
+    "translation": "mute mute mute mute luka luka wan"
   },
   {
     "original": "ninety-two",
-    "translation": "meli Ninety tu"
+    "translation": "mute mute mute mute luka luka tu"
   },
   {
     "original": "one hundred",
-    "translation": "mute"
+    "translation": "ale"
   },
   {
     "original": "one hundred one",
-    "translation": "mute wan"
+    "translation": "ale wan"
   },
   {
     "original": "one hundred two",
-    "translation": "mute tu"
+    "translation": "ale tu"
   },
   {
     "original": "one hundred ten",
-    "translation": "mute luka luka"
+    "translation": "ale luka luka"
   },
   {
     "original": "one hundred eleven",
-    "translation": "mute mute mute."
+    "translation": "ale luka luka wan"
   },
   {
     "original": "one thousand",
-    "translation": "mute."
-  },
-  {
-    "original": "ten thousand",
-    "translation": "mute luka."
-  },
-  {
-    "original": "one hundred thousand",
-    "translation": "mute."
+    "translation": "ale ale ale ale ale ale ale ale ale ale"
   },
   {
     "original": "first",
-    "translation": "open la"
+    "translation": "nanpa wan"
   },
   {
     "original": "second",
@@ -209,19 +201,19 @@
   },
   {
     "original": "third",
-    "translation": "tu wan"
+    "translation": "nanpa tu wan"
   },
   {
     "original": "fortieth",
-    "translation": "jaki"
+    "translation": "nanpa mute mute"
   },
   {
     "original": "fourth",
-    "translation": "tu tu."
+    "translation": "nanpa tu tu"
   },
   {
     "original": "fifth",
-    "translation": "nanpa luka tu"
+    "translation": "nanpa luka"
   },
   {
     "original": "adjective",
